@@ -1,0 +1,10 @@
+.zoom{
+    width: 300px;
+}
+
+.loader{
+    display: inline-block;
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+}
